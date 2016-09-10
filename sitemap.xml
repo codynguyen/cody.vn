@@ -3,13 +3,33 @@
   
   <url>
     <loc>https://cody.vn/</loc>
-    <lastmod>2016-09-10T14:04:32+07:00</lastmod>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cody.vn/post/about/</loc>
-    <lastmod>2016-09-10T14:04:32+07:00</lastmod>
+    <loc>https://cody.vn/about/</loc>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cody.vn/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cody.vn/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cody.vn/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cody.vn/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
