@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes from a casual developer </title>
-    <link>https://codynguyen.github.io/cody.vn/</link>
+    <link>https://cody.vn/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>About</title>
-          <link>https://codynguyen.github.io/cody.vn/post/about/</link>
+          <link>https://cody.vn/post/about/</link>
           <pubDate>Sat, 10 Sep 2016 14:04:32 ICT</pubDate>
           <author></author>
-          <guid>https://codynguyen.github.io/cody.vn/post/about/</guid>
+          <guid>https://cody.vn/post/about/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed
 analysis on how good companies became great.&lt;/p&gt;
 </description>
