@@ -1,1 +1,1 @@
-# cody.vn
+Generated static files for cody.vn website.
